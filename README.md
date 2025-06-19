@@ -74,8 +74,8 @@ projet-musical/
 ├── docs/
 │   └── schema de la base de données
 │
-├── explore_data.ipynb        # Notebook principal d'analyse
-├── README.md                 # Documentation du projet
+├── scripts/
+│     └── explore_data.ipynb
 ```
 
 ## ⚙️ Comment exécuter le projet
