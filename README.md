@@ -87,7 +87,7 @@ pip install pandas jupyter
 
 2. **Lancer le notebook** :
 ```bash
-jupyter notebook
+VS CODE
 ```
 
 3. Ouvrir `explore_data.ipynb` et exécuter les cellules.
@@ -95,7 +95,7 @@ jupyter notebook
 ## 🛠️ Outils utilisés
 
 - Python 3.11.3
-- Jupyter Notebook
+- VS CODE 
 - Pandas
 - CSV 
 - Visualisation 
